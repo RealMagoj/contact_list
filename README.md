@@ -1,2 +1,2 @@
 # contact_list
-contact_list_exercises#LighthouseLabs
+contact_list_exercise#LighthouseLabs
